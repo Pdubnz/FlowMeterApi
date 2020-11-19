@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowMeterApi", "FlowMeterApi\FlowMeterApi.csproj", "{486D85FA-DB0C-477A-B9EB-FD93BF33DB4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowMeterData.Library", "FlowMeterData.Library\FlowMeterData.Library.csproj", "{4127B703-AB38-41D2-894D-C4A8A9E32170}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FlowMeterDB", "FlowMeterDB\FlowMeterDB.sqlproj", "{2C187F8C-7760-48CC-8570-4B947D5796C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486D85FA-DB0C-477A-B9EB-FD93BF33DB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486D85FA-DB0C-477A-B9EB-FD93BF33DB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486D85FA-DB0C-477A-B9EB-FD93BF33DB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486D85FA-DB0C-477A-B9EB-FD93BF33DB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4127B703-AB38-41D2-894D-C4A8A9E32170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127B703-AB38-41D2-894D-C4A8A9E32170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127B703-AB38-41D2-894D-C4A8A9E32170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127B703-AB38-41D2-894D-C4A8A9E32170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C187F8C-7760-48CC-8570-4B947D5796C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1CAEB4-F4EF-4DFD-8428-7B2E8C55CD87}
+	EndGlobalSection
+EndGlobal
