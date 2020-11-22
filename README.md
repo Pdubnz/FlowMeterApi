@@ -1,6 +1,7 @@
 # Flow Meter Api
 
-1. Build The Database.
-2. Enable authorization from the controllers.
-3. Create account and activate.
-4. Login and start using swagger to test.
+1. ENsure .Net core sdk is up to date.
+2. Build The Database.
+3. Enable authorization from the controllers.
+4. Create account and activate.
+5. Login and start using swagger to test.
